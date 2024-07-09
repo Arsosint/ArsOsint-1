@@ -10,7 +10,7 @@ from functools import lru_cache
 # Проверка по IP
 class HttpWebIp:
     """Информация получаемая с сайта httpweb.ru и httpbin.ru никак\n
-    не синхронизирован/связан с noblack-mail а так-же с noblack.command.
+    не синхронизирован/связан с ArsOsint а так-же с noblack.command.
     :param: `user_number` - Номер телефона."""
 
 
